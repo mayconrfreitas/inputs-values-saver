@@ -1,0 +1,40 @@
+body {
+	font-family: Arial, sans-serif;
+	padding: 20px;
+	background-color: #f9f9f9;
+}
+
+h1 {
+	font-size: 18px;
+	margin-bottom: 20px;
+}
+
+.input-label {
+	font-weight: bold;
+	margin-top: 15px;
+	display: block;
+}
+
+.input-field {
+	margin-top: 5px;
+	margin-bottom: 10px;
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+#save-btn {
+	background-color: #007bff;
+	color: white;
+	border: none;
+	padding: 10px;
+	border-radius: 4px;
+	cursor: pointer;
+	margin-top: 20px;
+}
+
+#save-btn:hover {
+	background-color: #0056b3;
+}
