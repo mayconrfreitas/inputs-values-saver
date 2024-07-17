@@ -1,5 +1,7 @@
 # Input Values Saver Chrome Extension
 
+![Sample GIF](./assets/sample.gif)
+
 A Chrome extension that saves and fills standard values for all inputs present on a webpage. This extension provides buttons to save and fill the standard values for input fields, making it easier to manage repetitive form data.
 
 ## Features
@@ -22,7 +24,7 @@ A Chrome extension that saves and fills standard values for all inputs present o
     - Toggle the switch for Developer mode in the top right corner of the page.
 
 4. **Load the unpacked extension:**
-    - Click the "Load unpacked" button and select the folder where you cloned the repository.
+    - Click the "Load unpacked" button and select the folder [inputs-values-saver-extension](./inputs-values-saver-extension/) where you cloned the repository.
 
 5. **Pin the extension for easy access:**
     - Click on the extensions icon (puzzle piece) in the top right corner of Chrome.
